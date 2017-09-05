@@ -1,3 +1,9 @@
+                                    '''
+                                    从数据库中取出数据 导成Excel
+                                    1、先python  ..py > 。。txt 导出成txt格式
+                                    2、将txt中的文本复制到windows记事本里面
+                                    3、打开excel 数据导入数据
+                                    '''
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import xlwt
